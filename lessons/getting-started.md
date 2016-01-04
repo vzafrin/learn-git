@@ -7,7 +7,12 @@ This lesson is designed to help you get started using git and GitHub. We have de
 
 Creating your GitHub account is the first set to getting started. To create an account, head over to their [Join GitHub](https://github.com/join) page and create an account. We recommend using your BU email address for contact information and creating an easy to understand username like vzafrin or tomhohenstein. 
 
+If you have any problems, try to create an [issue]((https://github.com/bulib/learn-git/issues) and someone will help you out. 
+
 ## Navigating GitHub 
+
+Now that you have 
+
 
 ![GitHub Navbar](https://raw.githubusercontent.com/bulib/learn-git/master/images/getting-started-github-navbar.png)
 
