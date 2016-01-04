@@ -51,6 +51,8 @@ To fully appreciate pull requests we have to understand the git workflow (which 
 
 ### Wiki (may not be visiable) 
 
+A repository's wiki is the place for the project's documentation. This is where you can find detailed information about how the code works. A great example is [Mike Bostock's D3 Wiki](https://github.com/mbostock/d3/wiki). Perhaps as we continue working on this project we can create appropriate documentation. 
+
 ### Pulse 
 
 ### Graphs 
