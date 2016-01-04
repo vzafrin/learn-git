@@ -11,7 +11,7 @@ If you have any problems, try to create an [issue]((https://github.com/bulib/lea
 
 ## Navigating GitHub 
 
-Now that you have a GitHub account, let's take a look around. In another browser window open [navigate to this repository](https://github.com/bulib/learn-git). 
+Now that you have a GitHub account, let's take a look around. In another browser window [navigate to this repository](https://github.com/bulib/learn-git). 
 
 The first section we are going to look is, what I call, the navbar. 
 
@@ -63,7 +63,7 @@ Similar to the pulse tab, graphs let's you see the repository's activity, howeve
 
 ### Settings (may not be visiable) 
 
-If you own or have admin rights to a repository, you'll likely see the settings tab. However, if you don't you won't see it (but that's okay). The settings tab has probably exactly what you imagine it will - the settings for a repository. 
+If you own or have admin rights to a repository, you'll likely see the settings tab. However, if you don't you won't see it (but that's okay). The settings tab has probably exactly what you imagine it will - the settings for a repository. In this tab you can edit the repository's name, add collaborators and teams, edit branch settings, and a few other tasks. 
 
 
 ## Using Markdown 
