@@ -55,7 +55,11 @@ A repository's wiki is the place for the project's documentation. This is where 
 
 ### Pulse 
 
+The pulse tab provides a nice, quick overview of a repository's activity. You can filter by different time periods, see issues that were opened and closed, and see how many commits were made. 
+
 ### Graphs 
+
+Similar to the pulse tab, graphs let's you see the repository's activity, however, with graphs there are a lot more options. You can look at contributors and commits as well as other visualizations like punch card and network. If you're interested in learning more about who is working on your repo. 
 
 ### Settings (may not be visiable) 
 
