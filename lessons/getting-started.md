@@ -25,15 +25,13 @@ Don't worry if you are not familiar with the difference between code, issues, pu
 
 ### Pull Requests 
 
-### Wiki 
+### Wiki (may not be visiable) 
 
 ### Pulse 
 
-### Graph 
-
 ### Graphs 
 
-### Settings 
+### Settings (may not be visiable) 
 
 ## Using Markdown 
 
