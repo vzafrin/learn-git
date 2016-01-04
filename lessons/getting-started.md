@@ -47,6 +47,8 @@ Users can comment on issues, using Markdown, and contribute to the conversation.
 
 ### Pull Requests 
 
+To fully appreciate pull requests we have to understand the git workflow (which is a bit more than this getting started session can tackle). But for simplicity, let's say pull requests is the way for others to add their contributions to your project and when someone makes a pull request, you can find them here. Like issues, pull requests can be commented on and debated. We'll get more into pull requests later but this is place you'll look for them. 
+
 ### Wiki (may not be visiable) 
 
 ### Pulse 
