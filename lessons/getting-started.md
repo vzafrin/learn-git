@@ -32,7 +32,7 @@ One great feature of GitHub that it automatically displays the readme.md file fo
 
 ### Issues 
 
-GitHub's issue tracker is one of the best features of the service. Issues makes it easy to resolve problems with your repository, assign tasks, communicate status, and collaborate with others. There is a lot more to issues than we will cover here but using issues is critical to using GitHub. When you first land on a repositories issue page, it should look something like: 
+GitHub's issue tracker is one of the best features of the service. Issues make it easy to resolve problems with your repository, assign tasks, communicate status, and collaborate with others. There is a lot more to issues than we will cover here but using issues is critical to using GitHub. When you first land on a repositories issue page, it should look something like: 
 
 ![GitHub Issues Overview](https://raw.githubusercontent.com/bulib/learn-git/master/images/getting-started-issues-overview.png)
 
@@ -48,7 +48,7 @@ Users can comment on issues, using Markdown, and contribute to the conversation.
 
 To fully appreciate pull requests we have to understand the git workflow (which is a bit more than this getting started session can tackle). But for simplicity, let's say pull requests is the way for others to add their contributions to your project and when someone makes a pull request, you can find them here. Like issues, pull requests can be commented on and debated. We'll get more into pull requests later but this is place you'll look for them. 
 
-### Wiki (may not be visiable) 
+### Wiki (may not be visible) 
 
 A repository's wiki is the place for the project's documentation. This is where you can find detailed information about how the code works. A great example is [Mike Bostock's D3 Wiki](https://github.com/mbostock/d3/wiki). Perhaps as we continue working on this project we can create appropriate documentation. 
 
@@ -66,7 +66,7 @@ If you own or have admin rights to a repository, you'll likely see the settings 
 
 ## Using Markdown 
 
-Markdown is the markup language of choice for GitHub. It is a simple way to markup text to add bold, italics, headings, and other "standard" snytax features. The great news is that there a number of guides for using Markdown. A few are: 
+Markdown is the markup language of choice for GitHub. It is a simple way to markup text to add bold, italics, headings, and other "standard" syntax  features. The great news is that there are a number of guides for using Markdown. A few are: 
 
 1. [Markdown Basics](https://help.github.com/articles/markdown-basics/)
 2. [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
