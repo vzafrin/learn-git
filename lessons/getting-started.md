@@ -2,7 +2,6 @@
 
 This lesson is designed to help you get started using git and GitHub. We have designed it as a mix of content and tasks to help facilitate learning. If you have any questions, issues, or suggestions, [please add an issue](https://github.com/bulib/learn-git/issues).
 
-
 ## Creating a GitHub Account 
 
 Creating your GitHub account is the first set to getting started. To create an account, head over to their [Join GitHub](https://github.com/join) page and create an account. We recommend using your BU email address for contact information and creating an easy to understand username like vzafrin or tomhohenstein. 
@@ -61,12 +60,20 @@ The pulse tab provides a nice, quick overview of a repository's activity. You ca
 
 Similar to the pulse tab, graphs let's you see the repository's activity, however, with graphs there are a lot more options. You can look at contributors and commits as well as other visualizations like punch card and network. If you're interested in learning more about who is working on your repository. 
 
-### Settings (may not be visiable) 
+### Settings (may not be visible) 
 
 If you own or have admin rights to a repository, you'll likely see the settings tab. However, if you don't you won't see it (but that's okay). The settings tab has probably exactly what you imagine it will - the settings for a repository. In this tab you can edit the repository's name, add collaborators and teams, edit branch settings, and a few other tasks. 
 
-
 ## Using Markdown 
 
+Markdown is the markup language of choice for GitHub. It is a simple way to markup text to add bold, italics, headings, and other "standard" snytax features. The great news is that there a number of guides for using Markdown. A few are: 
+
+1. [Markdown Basics](https://help.github.com/articles/markdown-basics/)
+2. [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
+3. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+4. [Writing on GitHub](https://help.github.com/articles/writing-on-github/)
+5. [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/)
+
+After reading these you'll be good to go with Markdown. 
 
 ## Git Terminology 
