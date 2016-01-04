@@ -9,6 +9,7 @@ Creating your GitHub account is the first set to getting started. To create an a
 
 ## Navigating GitHub 
 
+![GitHub Navbar](https://raw.githubusercontent.com/bulib/learn-git/master/images/getting-started-github-navbar.png)
 
 ## Using Markdown 
 
