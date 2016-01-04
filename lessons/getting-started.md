@@ -29,6 +29,8 @@ The first bit of information the code section will tell you is about the last co
 
 Below the commit information are the files and folders of the repository. You can click around the repository to view the different files. 
 
+One great feature of GitHub that it automatically displays the readme.md file for a given folder. Knowing this allows us to communicate quickly with anyone visiting our repository (and it also makes the readme.md a great place for documentation and further information). 
+
 ### Issues 
 
 ### Pull Requests 
