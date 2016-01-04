@@ -84,3 +84,10 @@ You might have noticed new terms like "fork," "branch," or "pull" and wondered w
 2. [Git Documentation](http://git-scm.com/doc)
 3. [Git Reference](http://gitref.org/)
 4. [Git Glossary Manual Page](https://www.kernel.org/pub/software/scm/git/docs/gitglossary.html)
+
+## Hello World 
+
+Now that we have looked at a repository, let's get started. [GitHub has a nice Hello World Guide](https://guides.github.com/activities/hello-world/) that will take you through creating a repository, opening an issue, creating a branch, making a commit, and working with pull requests. If you have any questions or problems, try creating an issue on this repository and we'll see if we can help. 
+
+
+
