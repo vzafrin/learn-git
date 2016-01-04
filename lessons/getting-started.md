@@ -21,6 +21,14 @@ Don't worry if you are not familiar with the difference between code, issues, pu
 
 ### Code 
 
+This is where your code, text files, images, or what-have-you will be found. It might be helpful to think of this as a file directory for all of the files in a repository. Just so we are all on the same page, I'm going to be discussing the area that looks like the following.
+
+![GitHub Code Tab](https://raw.githubusercontent.com/bulib/learn-git/master/images/getting-started-code.png)
+
+The first bit of information the code section will tell you is about the last commit. I know we are already using some git terminology, but for now think of the last commit as the last change made to the repository. The light blue section has information about who made the last commit, the message that was associated with it, the commit identifier, and when it occurred.
+
+Below the commit information are the files and folders of the repository. You can click around the repository to view the different files. 
+
 ### Issues 
 
 ### Pull Requests 
