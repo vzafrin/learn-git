@@ -37,6 +37,9 @@ GitHub's issue tracker is one of the best features of the service. Issues makes 
 
 ![GitHub Issues Overview](https://raw.githubusercontent.com/bulib/learn-git/master/images/getting-started-issues-overview.png)
 
+By default GitHub initially only shows issues that are open. If you look in the search bar next to the "labels" and "milestones" button you'll see it says "is:issue is:open." You can either remove the "is:open" from the search or click on "Closed" beneath the search bar to view closed issues.  
+
+If you click into an example, you'll see something like below. 
 
 ![GitHub Issues Example](https://github.com/bulib/learn-git/blob/master/images/getting-started-issues-example.png)
 
