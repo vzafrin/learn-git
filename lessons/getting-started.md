@@ -59,9 +59,12 @@ The pulse tab provides a nice, quick overview of a repository's activity. You ca
 
 ### Graphs 
 
-Similar to the pulse tab, graphs let's you see the repository's activity, however, with graphs there are a lot more options. You can look at contributors and commits as well as other visualizations like punch card and network. If you're interested in learning more about who is working on your repo. 
+Similar to the pulse tab, graphs let's you see the repository's activity, however, with graphs there are a lot more options. You can look at contributors and commits as well as other visualizations like punch card and network. If you're interested in learning more about who is working on your repository. 
 
 ### Settings (may not be visiable) 
+
+If you own or have admin rights to a repository, you'll likely see the settings tab. However, if you don't you won't see it (but that's okay). The settings tab has probably exactly what you imagine it will - the settings for a repository. 
+
 
 ## Using Markdown 
 
