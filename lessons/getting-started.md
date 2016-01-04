@@ -43,6 +43,8 @@ If you click into an example, you'll see something like below.
 
 ![GitHub Issues Example](https://github.com/bulib/learn-git/blob/master/images/getting-started-issues-example.png)
 
+Users can comment on issues, using Markdown, and contribute to the conversation. Admins can also apply labels, attach an issue to a milestone, and assign the issue. There's a lot to cover with issues but that should get you going and if you're feeling bold, comment on the Welcome issue. 
+
 ### Pull Requests 
 
 ### Wiki (may not be visiable) 
