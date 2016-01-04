@@ -11,10 +11,29 @@ If you have any problems, try to create an [issue]((https://github.com/bulib/lea
 
 ## Navigating GitHub 
 
-Now that you have 
+Now that you have a GitHub account, let's take a look around. In another browser window open [navigate to this repository](https://github.com/bulib/learn-git). 
 
+The first section we are going to look is, what I call, the navbar. 
 
 ![GitHub Navbar](https://raw.githubusercontent.com/bulib/learn-git/master/images/getting-started-github-navbar.png)
+
+Don't worry if you are not familiar with the difference between code, issues, pull requests, and graphs. We'll get there one step at a time. 
+
+### Code 
+
+### Issues 
+
+### Pull Requests 
+
+### Wiki 
+
+### Pulse 
+
+### Graph 
+
+### Graphs 
+
+### Settings 
 
 ## Using Markdown 
 
