@@ -77,3 +77,10 @@ Markdown is the markup language of choice for GitHub. It is a simple way to mark
 After reading these you'll be good to go with Markdown. 
 
 ## Git Terminology 
+
+You might have noticed new terms like "fork," "branch," or "pull" and wondered what on earth does that mean? Don't worry about it. After awhile, you'll understand the terms and appreciate why the developers didn't use common terms like "copy." However, it can be nice to have a glossary to help us out. Here are a few worth knowing about: 
+
+1. [GitHub Glossary](https://help.github.com/articles/github-glossary/)
+2. [Git Documentation](http://git-scm.com/doc)
+3. [Git Reference](http://gitref.org/)
+4. [Git Glossary Manual Page](https://www.kernel.org/pub/software/scm/git/docs/gitglossary.html)
