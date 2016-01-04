@@ -33,6 +33,13 @@ One great feature of GitHub that it automatically displays the readme.md file fo
 
 ### Issues 
 
+GitHub's issue tracker is one of the best features of the service. Issues makes it easy to resolve problems with your repository, assign tasks, communicate status, and collaborate with others. There is a lot more to issues than we will cover here but using issues is critical to using GitHub. When you first land on a repositories issue page, it should look something like: 
+
+![GitHub Issues Overview](https://raw.githubusercontent.com/bulib/learn-git/master/images/getting-started-issues-overview.png)
+
+
+![GitHub Issues Example](https://github.com/bulib/learn-git/blob/master/images/getting-started-issues-example.png)
+
 ### Pull Requests 
 
 ### Wiki (may not be visiable) 
