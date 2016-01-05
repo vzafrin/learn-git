@@ -41,3 +41,5 @@ After you have made a few edits, go ahead and make a commit.
 Do that again. And again. And one more time. 
 
 ## Submit a pull request 
+
+Now that you have made your commits. Go ahead a submit a pull request using the desktop client. 
