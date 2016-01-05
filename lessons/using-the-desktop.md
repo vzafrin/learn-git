@@ -24,7 +24,11 @@ Click on that icon and you should clone the repository into your desktop client.
 
 Creating branches is a core concept in Git and allows us to keep one working copy - aka the master branch - and numerous branches for testing ideas, improving the project, and fixing errors. By creating a branch for a specific task or goal, you can work on that effort without effecting the master branch until it is finalized and ready to go. 
 
-Our next task is to create a branch using the desktop client.
+Our next task is to create a branch using the desktop client. In the desktop client use the icon on the left in the image below to create a new branch. 
+
+![Clone Icon](https://raw.githubusercontent.com/bulib/learn-git/using-the-desktop/images/using-the-desktop-branches.png)
+
+Branches are great but you do have to be mindful about which branch you're currently working on. In the desktop client you have a drop down that will let you know which branch you're working on. In the image above, I'm working on the using-the-desktop branch. 
 
 ## Commit a change 
 
