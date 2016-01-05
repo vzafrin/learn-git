@@ -1,10 +1,12 @@
 # Using the Desktop Client 
 
-If you're new to git and the command line generally, a good way to become more familiar with git and GitHub is to use one of their desktop clients (they have versions for both Macs and Windows).
+If you're new to Git and the command line generally, a good way to become more familiar with Git and GitHub is to use one of their desktop clients (they have versions for both Macs and Windows).
 
 To install the [GitHub Desktop head over to the download page](https://desktop.github.com/).
 
-Now that you have everything installed, let's take a look at the [GitHub Flow](https://guides.github.com/introduction/flow/). 
+Follow some of the start guide about the buttons and where things are located in the graphical user interface. 
+
+Now that you have everything installed, let's take a look at the [GitHub Flow](https://guides.github.com/introduction/flow/). Having some understanding of the GitHub workflow will help the following steps make more sense. 
 
 ## Clone a repository 
 
@@ -16,9 +18,13 @@ The magic button for cloning a repository on GitHub is:
 
 ![Clone Icon](https://raw.githubusercontent.com/bulib/learn-git/using-the-desktop/images/using-the-desktop-clone-icon.png)
 
-Click on that icon and follow what happens in your desktop client. 
+Click on that icon and you should clone the repository into your desktop client. 
 
 ## Create a branch 
+
+Creating branches is a core concept in Git and allows us to keep one working copy - aka the master branch - and numerous branches for testing ideas, improving the project, and fixing errors. By creating a branch for a specific task or goal, you can work on that effort without effecting the master branch until it is finalized and ready to go. 
+
+Our next task is to create a branch using the desktop client.
 
 ## Commit a change 
 
