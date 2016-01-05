@@ -30,6 +30,14 @@ Our next task is to create a branch using the desktop client. In the desktop cli
 
 Branches are great but you do have to be mindful about which branch you're currently working on. In the desktop client you have a drop down that will let you know which branch you're working on. In the image above, I'm working on the using-the-desktop branch. 
 
+Go ahead and create a new branch and move onto that branch.  
+
 ## Commit a change 
+
+Now that you have a new branch and are on it. Pull up the using-the-desktop-tasks.md file in your favorite text editor and start making some changes. 
+
+After you have made a few edits, go ahead and make a commit. 
+
+Do that again. And again. And one more time. 
 
 ## Submit a pull request 
