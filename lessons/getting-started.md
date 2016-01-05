@@ -52,6 +52,8 @@ To fully appreciate pull requests we have to understand the git workflow (which 
 
 A repository's wiki is the place for the project's documentation. This is where you can find detailed information about how the code works. A great example is [Mike Bostock's D3 Wiki](https://github.com/mbostock/d3/wiki). Perhaps as we continue working on this project we can create appropriate documentation. 
 
+If you're really interested in GitHub's wiki feature, check out their [Mastering Wiki's guide](https://guides.github.com/features/wikis/)
+
 ### Pulse 
 
 The pulse tab provides a nice, quick overview of a repository's activity. You can filter by different time periods, see issues that were opened and closed, and see how many commits were made. 
