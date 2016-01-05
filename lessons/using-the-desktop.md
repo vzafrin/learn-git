@@ -35,7 +35,7 @@ Go ahead and create a new branch and move onto that branch.
 
 ## Commit a change 
 
-Now that you have a new branch and are on it. Pull up the using-the-desktop-tasks.md file in your favorite text editor and start making some changes. 
+Now that you have a new branch and are on it. Pull up the using-the-desktop-tasks.md file the tasks folder gin your favorite text editor and start making some changes. 
 
 After you have made a few edits, go ahead and make a commit. 
 
