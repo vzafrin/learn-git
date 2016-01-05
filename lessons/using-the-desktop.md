@@ -4,7 +4,7 @@ If you're new to git and the command line generally, a good way to become more f
 
 To install the [GitHub Desktop head over to the download page](https://desktop.github.com/).
 
-Now that you have everything installed, let's get started. 
+Now that you have everything installed, let's take a look at the [GitHub Flow](https://guides.github.com/introduction/flow/). 
 
 ## Clone a repository 
 
@@ -15,6 +15,8 @@ Wait, what does cloning a repository do exactly? When you make a clone of a repo
 The magic button for cloning a repository on GitHub is: 
 
 ![Clone Icon](https://raw.githubusercontent.com/bulib/learn-git/using-the-desktop/images/using-the-desktop-clone-icon.png)
+
+Click on that icon and follow what happens in your desktop client. 
 
 ## Create a branch 
 
