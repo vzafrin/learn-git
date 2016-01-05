@@ -43,4 +43,7 @@ Do that again. And again. And one more time.
 
 ## Submit a pull request 
 
-Now that you have made your commits. Go ahead a submit a pull request using the desktop client. 
+Now that you have made your commits. We are going to submit a pull request from your forked version of the repository. To do some go to your repository's page on github, it should be something link github.com/<your username>/learn-git. 
+
+Once you're there you should see a banner saying "Compare and Pull Request." Click on that button and you'll be sent to a discussion page where you can add a title and some information about your pull request. Lastly, hit "Send pull request" and we should get your request. 
+
